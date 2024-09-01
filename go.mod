@@ -6,7 +6,7 @@ require (
 	github.com/cloudflare/pint v0.64.0
 	github.com/google/go-jsonnet v0.20.0
 	github.com/grafana/dashboard-linter v0.0.0-20240808111517-eb2bc3ba25e3
-	github.com/jsonnet-bundler/jsonnet-bundler v0.5.1
+	github.com/jsonnet-bundler/jsonnet-bundler v0.6.0
 	github.com/monitoring-mixins/mixtool v0.0.0-20240806195600-448a81c91e51
 	github.com/prometheus/prometheus v0.54.0
 )
@@ -54,6 +54,7 @@ require (
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/edsrzf/mmap-go v1.1.0 // indirect
+	github.com/elliotchance/orderedmap/v2 v2.2.0 // indirect
 	github.com/emicklei/go-restful/v3 v3.11.0 // indirect
 	github.com/envoyproxy/go-control-plane v0.12.0 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.0.4 // indirect
