@@ -8,7 +8,7 @@ require (
 	github.com/grafana/dashboard-linter v0.0.0-20240808111517-eb2bc3ba25e3
 	github.com/jsonnet-bundler/jsonnet-bundler v0.5.1
 	github.com/monitoring-mixins/mixtool v0.0.0-20240806195600-448a81c91e51
-	github.com/prometheus/prometheus v0.54.0
+	github.com/prometheus/prometheus v0.54.1
 )
 
 require (
