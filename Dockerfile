@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM golang:1.23.1 AS go-tools
+FROM golang:1.23.2 AS go-tools
 WORKDIR /go/src/telembox
 COPY go.mod go.sum .
 RUN \
