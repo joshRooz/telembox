@@ -1,6 +1,6 @@
 module _
 
-go 1.23.1
+go 1.23.2
 
 require (
 	github.com/cloudflare/pint v0.65.1
